@@ -15,9 +15,6 @@ BCIT New Media and Web Development 2020
 
 CREDITS:
 
-JavaScript Tarot Reading Tutorial
-https://www.youtube.com/watch?v=RBHdY842V6U
-
 Norse Font - Joel Carrouche
 https://www.fontspace.com/joel-carrouche
 
@@ -29,3 +26,6 @@ https://unsplash.com/@nate_dumlao
 
 Inspiration - Rune Secrets
 https://runesecrets.com/
+
+JavaScript Tarot Reading Tutorial
+https://www.youtube.com/watch?v=RBHdY842V6U
